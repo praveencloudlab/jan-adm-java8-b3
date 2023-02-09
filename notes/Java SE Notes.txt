@@ -1,0 +1,43 @@
+Java SE Notes
+---------------
+Java Standard Edition (Java SE): This is the core Java platform for desktop and server applications. It includes the Java Development Kit (JDK) and the Java Runtime Environment (JRE). (stand alone apps dev)
+
+Java Enterprise Edition (Java EE): This is an extension of Java SE for building large-scale, multi-tiered, scalable, and secure network applications. It includes various APIs for web services, component-based development, and other enterprise-level services.(multi user access)
+
+Java Micro Edition (Java ME): This is a compact version of Java SE for mobile devices, embedded systems, and other resource-constrained devices.
+
+JavaFX: This is a platform for building rich internet applications using Java. It includes a rich set of graphics and media libraries, and supports a wide range of devices.
+
+
+what is diffrence b/w jre and jdk?
+---------------------------------------
+The JRE is a subset of the JDK and includes only the parts of the Java platform required to run Java applications. It includes the Java Virtual Machine (JVM), which is responsible for executing Java code, as well as a set of libraries and tools for managing and deploying Java applications.
+
+The JDK, on the other hand, is a complete development environment for Java. It includes the JRE, as well as a set of development tools and libraries, including the Java compiler (javac), the Java debugger (jdb), and various other tools for developing and testing Java applications.
+
+In summary, if you just want to run Java applications, you only need to install the JRE. However, if you want to develop Java applications, you will need to install the JDK, which includes all the tools you need for Java development.
+
+
+what is JVM?
+------------------
+
+The Java Virtual Machine (JVM) is an essential component of the Java platform. It is the software layer between the Java application and the underlying operating system that enables Java applications to run on a wide variety of platforms, including Windows, macOS, and Linux.
+
+The JVM acts as an interpreter for compiled Java code, executing the code on the target computer. It also provides a runtime environment for Java applications, including memory management, security, and the management of the execution of multiple threads.
+
+One of the key advantages of the JVM is that it allows Java applications to be written once and run on any platform, as long as a JVM is available for that platform. This means that Java developers can write code that can run on any computer, without having to worry about the underlying hardware or operating system.
+
+In short, the JVM is a crucial component of the Java platform that enables Java applications to be executed on a wide range of platforms and provides a secure and efficient runtime environment for Java applications.
+
+
+
+
+
+
+
+
+
+
+
+
+

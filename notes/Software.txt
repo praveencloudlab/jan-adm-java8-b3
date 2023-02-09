@@ -9,7 +9,20 @@ Software
  ( https://www.jetbrains.com/idea/download/#section=windows )
  ===================================================
 
- 
+3.database (mysql8, h2, oracle xe)
+( https://dev.mysql.com/downloads/file/?id=516927 )
+
+notes
+---------
+javac - compiler (java 1.8)
+java  - jre (runtime) (java 1.8 / above )
+
+
+
+
+
+
+
 
 
 
