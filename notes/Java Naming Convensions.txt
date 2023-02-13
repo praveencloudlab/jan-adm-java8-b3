@@ -1,0 +1,22 @@
+Java Naming Convensions
+==========================
+Java has a set of naming conventions that are followed by Java developers to make their code more readable and maintainable. Some of the most common naming conventions in Java are:
+
+1.Class names should start with a capital letter and follow the each word in the fiest letter should be capitalized.
+ e.g. MyClass, Employee, InoutProcessData
+
+2.Method names should start with a lowercase letter. if there are more than one words in the method name, then each word of first letter should be capitalized.
+ e.g. myMethod, display, processStudentData  .. etc
+
+3.Variable names should start with a lowercase letter, if there are more than one word in the variable name, then each word of first letter should be capitalized.
+ e.g. myVariable,age,employeeName etc
+
+4.Constants should be written in all uppercase letters. if there aree more tha one word in the constant name, then  use the underscore to separate words.
+ e.g. MY_CONSTANT, MAX_AGE, PI, etc
+
+5.Package names and keywords should be all lowercase letters.
+ e.g. mypackage, com, int , if , for
+
+
+
+ 
