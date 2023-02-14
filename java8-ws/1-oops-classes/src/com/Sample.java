@@ -11,7 +11,9 @@ public class Sample {
 	}
 	
 	static void f4() { // static method
-		
+		Employee empObj=new Employee();
+		empObj.empId=9689;
+		Employee.a=3434;
 	}
 
 }

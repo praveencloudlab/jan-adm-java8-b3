@@ -80,6 +80,23 @@ public class Employee {
 	 * 
 	 * 
 	 * 
+	 * 
+	 *    methods
+	 *    =============
+	 *    1.instance
+	 *    2.static
+	 *    3.final
+	 *    4.native
+	 *    5.default
+	 *    
+	 *    class
+	 *    ========
+	 *    1.concrete class
+	 *    2.final class
+	 *    3.abstract class
+	 *    
+	 * 
+	 * 
 	 */
 	
 	

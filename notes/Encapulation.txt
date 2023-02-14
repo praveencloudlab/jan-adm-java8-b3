@@ -1,0 +1,74 @@
+Encapulation
+================
+-> wrapping methods and variables together 
+
+  basics
+  -------------
+  1.methods
+  	a.method overloading
+  	b.call by value and reference
+
+ 1.packages
+ 	a.builtin packages
+ 	b.user defined packages
+ 2.access modifiers
+ 	a.public
+ 	b.protected
+ 	c.default
+ 	d.private
+
+3. POJO(Plain old java object) class / Model / Bean
+
+
+  methods in java
+  ==================
+  -> every method must return a value
+  -> a method may or may not have arguments
+  	arguments: 2 types
+  	--------------------
+  		1.actuval argument
+  		2.formal argument
+  
+
+   call by value and call by referance
+   =======================================
+   call by value
+   ===============
+   	-> any changes to the formal arguments, will not effect actual arguments
+   	note: all primitive variables in java are call by value by default
+
+   call by ref
+   ============
+   -> any changes to the formal arguments, will reflect to its actual argument
+
+   note: every object and array in java by default call by ref
+
+
+   constructor
+   ===============
+   -> constructor is a special method in java which invokes itself when
+      class object is created.
+   -> constructor name and class name must be same
+   -> constructor never have return types. not even 'void'
+
+   types of constructors : 2 types
+   =====================================
+   1.defaut constructor 
+   2.argument constructor
+
+   2.argument constructor
+   ===========================
+   -> to mandate to initize any propertis of a class, then it should be used.
+
+
+
+
+
+
+
+
+
+
+
+
+

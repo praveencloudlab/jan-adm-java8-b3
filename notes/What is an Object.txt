@@ -1,0 +1,19 @@
+What is an Object?
+====================
+Object is a real time entity which contains
+	1.state (variables)
+	2.behaviour (methods)
+
+	Car is a class, then car class object may contains
+	
+	1.state
+		regNo;
+		carModel;
+		modelYear;
+		carColor;
+	2.behaviour / actions
+		display();
+		drive();
+		shiftGears();
+		registerCar();
+
