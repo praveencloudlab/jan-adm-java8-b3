@@ -1,0 +1,17 @@
+POJO(plain old java object) class
+======================================
+Rules
+1.class must be public
+2.All the properties of POJO class should be private
+3.All methods should be defined as public with getXXX and setXXX (getters and setters)
+
+
+getters and setters
+=======================
+getters will not have arguments. but they have return type
+	-> use to access / display private data of a class
+setters will not have return type. But they have arguments
+	-> use to modify private properties of a class
+
+
+
