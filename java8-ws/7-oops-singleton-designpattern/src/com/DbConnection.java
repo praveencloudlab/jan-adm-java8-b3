@@ -18,9 +18,6 @@ public class DbConnection {
 	}
 	
 	
-	
-	
-	
 	public void connect() {
 		System.out.println("connected to database on "+this.hashCode());
 		//System.out.println(this.getClass().getName()); // Reflection api
