@@ -1,0 +1,56 @@
+Inheritance
+==================
+// methos overloding : static binding  (compile time)
+// method overridding: dynamic binding (runtime)
+
+ method overridding?
+ ======================
+
+ > same method with same signature
+
+
+  Types of Inheritance: 2 types
+  -------------------------------
+  1.single inheritance
+  2.multiple inheritanc
+
+
+   1.single inheritance
+   ==========================
+   Sub class having only one super class.
+
+   2.multiple inheritanc
+   ========================
+   Sub class having more than 1 super classes
+
+
+    Notes
+    ==========
+    1.super class obejct can hold / store all its sub class obejcts
+    	-> so that objection can be achieved.
+    2. the super class object can be used to access all the methods of
+       super class and overriden methods of sub class
+    3. the super class object can not be used to aceess the individual
+       methods (a method which defined in sub class and not defined in
+       super class) of a sub class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
