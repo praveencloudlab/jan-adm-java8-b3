@@ -13,8 +13,8 @@ public class TestApp {
 		t.task2();
 		//t.task3();
 		
-		SeniorProgrammer sp=new SeniorProgrammer();
-		sp.task3();
+		///SeniorProgrammer sp=new SeniorProgrammer();
+		//sp.task3();
 
 	}
 

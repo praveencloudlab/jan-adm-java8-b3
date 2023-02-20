@@ -15,3 +15,16 @@ setters will not have return type. But they have arguments
 
 
 
+ Types of Objects
+ ======================
+ 1.mutable : can be modified data of an object
+ 2.immutable : content of an object can not be modified.
+
+
+ how can yo make your class immutable?
+ =======================================
+ -> define all properties as 'private'
+ -> do not provide setter methods. just provide only getter methods alone
+
+
+

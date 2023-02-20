@@ -1,0 +1,40 @@
+Interfaces
+==================
+1.intrface is a method specifecation which contains zero or more abstract
+  meethods.
+2.interfaces can have concrete methods. it can have only abstract methods
+3.by default every method in the interface is 'public and abstract'
+4.by defaukt every variable in the interface is 'public static and final'
+5.Any sub classes of an interface must override all the abstract methods
+  of an interface.
+6.If any sub class an interface  is not overriding any of abstrac method
+  then that sub class must be defined as 'abstract'
+- interface  can not instanciated. We can;t create an object to an 
+  interface class. But we can create a reference of it.
+- The reference of an interface can hold all its sub class objets.
+
+==========================================================================
+notes
+======
+1.class can extends to another class
+2.class can not extends more than one class at a time
+3.class can implements an interface
+4.class can implements more than one interface at a time
+5.interface can extends to another interface
+6.interface can not implements another interface
+7.interface can extends more than one interface at a time
+8.interfaces and abstract classes must not defined both as final
+
+	final mthods can not overrriden in the sub classes
+	final variables act like const
+	final class can not be sub classed
+
+	
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+Abstract class
+==================
+
+- Abstract class is a method specification which contains zero or more  abstract methods and concrete methods
+- abstract methods do not have implementation of methods. only declaration
+- concraeme methods have implementaion of method
+- Any sub classes of an abstract class must override all the abstract methods
+  of an abstract class.
+- If any sub class an abstract class is not overriding anyone of abstrac method
+  then that sub class must be defined as 'abstract'
+- abstract class can not instanciated. We can;t create an object to an 
+  abstract class. But we can create a reference of it.
+- The reference of an abstract class ca hold all its sub class objets.
+
+
+ Tight coupling
+ ====================
+
+  A, B
+  A is testing (A class still writing the main business logic)
+  B is testing (testing is done). B is sub class A 
+
+
+
+  Loose coupling
+  =================
+  
+
+
+
+
