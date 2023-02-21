@@ -9,11 +9,14 @@ handling the exceptions
 2.catch : exeception details
 3.finally : always executes even if exception raised or not
 4.throw : raises exception
-5.throws : 
+5.throws : throws exception without handling it
 
 
-   try always get executed, id there are no esceptions
+   try always get executed, if there are no exceptions
    catch ony gets called when there is an exception 
    finally always gets executed even exeption raised or not
+
+
+
 
 
