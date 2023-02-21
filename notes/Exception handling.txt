@@ -1,0 +1,19 @@
+Exception handling
+========================
+two types of exceptions 
+1.checked (compile time)
+2.unchecked (runtime)
+
+handling the exceptions
+1.try : BL
+2.catch : exeception details
+3.finally : always executes even if exception raised or not
+4.throw : raises exception
+5.throws : 
+
+
+   try always get executed, id there are no esceptions
+   catch ony gets called when there is an exception 
+   finally always gets executed even exeption raised or not
+
+

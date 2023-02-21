@@ -1,0 +1,10 @@
+method ovrriding rules
+==========================
+1.when the super class overridden method is public,
+	then sub class overridden method must be public
+2.when the super class overridden method default,
+	then sub class overrridden method must be public,default and private
+3.when the super class overridden method is protected,
+	then overridden method must be protected,public
+4.private methods never available sub classes
+5.static methods can not be overrriden. 

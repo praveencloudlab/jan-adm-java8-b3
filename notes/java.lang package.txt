@@ -1,0 +1,39 @@
+java.lang package
+======================
+all classes and interfaces of lang package by default available to all the classes. no need of importing separatly
+
+===============================================
+1.Object
+2.String/StringBuffer/StringBuilder
+3.Wrapper classes
+4.Garbage collection
+5.Exception handling
+6.Threads
+===============================================
+
+1.Object
+===========
+->Object class is super class to all the classes
+->This class methods are common for every class in java
+	1.equals
+	2.hashCode (can be overidden)
+	3.toString
+	4.clone
+	5.finallize
+	6.wait
+	7.notify
+	8.notifyAll
+
+
+2.String/StringBuffer/StringBuilder
+=======================================
+->String class is immutable : (content of object can not be modified)
+->StringBuffer and StringBulder classes are mutable(content of object can be modified)
+
+
+
+
+
+
+
+
